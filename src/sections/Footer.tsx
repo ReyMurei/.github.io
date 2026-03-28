@@ -79,9 +79,9 @@ export default function Footer() {
           <div>
             <h3 className="font-semibold mb-4">Get In Touch</h3>
             <div className="space-y-3 text-muted-foreground">
-              <p>your.email@example.com</p>
-              <p>+1 (555) 123-4567</p>
-              <p>San Francisco, CA</p>
+              <p>audreymurigi4@gmail.com</p>
+              <p>+254 747732005</p>
+              <p>Nairobi, KE</p>
             </div>
           </div>
         </div>
@@ -89,7 +89,7 @@ export default function Footer() {
         {/* Bottom Bar */}
         <div className="pt-8 border-t border-border/50 flex flex-col md:flex-row items-center justify-between gap-4">
           <p className="text-sm text-muted-foreground text-center md:text-left">
-            © {currentYear} Your Name. All rights reserved.
+            © {currentYear} Audrey Murigi. All rights reserved.
           </p>
           <p className="text-sm text-muted-foreground flex items-center gap-1">
             Made with <Heart className="w-4 h-4 text-red-500 fill-red-500" /> using React & Tailwind
