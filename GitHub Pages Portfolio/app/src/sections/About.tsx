@@ -2,10 +2,10 @@ import { useEffect, useRef, useState } from 'react';
 import { BarChart3, Database, LineChart, TrendingUp, Code2, Palette, Rocket, Sparkles } from 'lucide-react';
 
 const stats = [
-  { label: 'Years Experience', value: 3 },
-  { label: 'Projects Completed', value: 12 },
+  { label: 'Years Experience', value: 2 },
+  { label: 'Projects Completed', value: 6 },
   { label: 'Happy Clients', value: 8 },
-  { label: 'Data Insights', value: 50 },
+  { label: 'Data Insights', value: 12 },
 ];
 
 const services = [
