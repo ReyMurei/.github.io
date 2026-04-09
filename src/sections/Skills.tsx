@@ -6,7 +6,6 @@ const skillCategories = [
     skills: [
       { name: 'SQL', level: 95 },
       { name: 'Python (Pandas)', level: 92 },
-      { name: 'R', level: 85 },
       { name: 'Excel/Google Sheets', level: 90 },
       { name: 'Statistical Analysis', level: 88 },
     ],
@@ -36,7 +35,7 @@ const skillCategories = [
 const technologies = [
   'SQL', 'Python', 'R', 'Tableau', 'Power BI',
   'Pandas', 'NumPy', 'scikit-learn', 'TensorFlow', 'BigQuery',
-  'Looker', 'Spark', 'PostgreSQL', 'MongoDB', 'AWS',
+  'Looker', 'Spark', 'PostgreSQL', 'AWS',
 ];
 
 function SkillBar({ name, level, delay }: { name: string; level: number; delay: number }) {
